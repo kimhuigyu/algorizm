@@ -33,5 +33,14 @@
     <ClCompile Include="6-5.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="shell.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="partition.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quick.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
